@@ -53,9 +53,9 @@ def auto_post(user_login, user_pass, session):
 
 logins = [
     {
-        'login': "barnokhonmetinova",
-        'password': "123456#"
-    },
+        'login': "login",
+        'password': "password"
+    }
 ]
 
 for person in logins:
